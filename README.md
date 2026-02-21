@@ -128,8 +128,8 @@ LeetcodeSolutions/
 - Missing Solutions: 30
 - Language: Java
 - Difficulty Distribution
-  - Easy: ~30 problems
-  - Medium: ~20 problems
-  - Hard: ~14 problems
+  - Easy: 36 problems
+  - Medium: 23 problems
+  - Hard: 9 problems
 
 
