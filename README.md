@@ -14,13 +14,17 @@ This repository contains solutions to various LeetCode problems, organized by pr
 | 0001 | Two Sum | Easy |
 | 0002 | Add Two Numbers | Medium |
 | 0007 | Reverse Integer | Medium |
+| 0009 | Palindrome Number | Easy |
 | 0024 | Swap Nodes in Pairs | Medium |
 | 0026 | Remove Duplicates from Sorted Array | Easy |
 | 0027 | Remove Element | Easy |
+| 0029 | Divide Two Integers | Medium |
 | 0033 | Search in Rotated Sorted Array | Medium |
 | 0035 | Search Insert Position | Easy |
 | 0036 | Valid Sudoku | Medium |
 | 0037 | Sudoku Solver | Hard |
+| 0042 | Trapping Rain Water | Hard |
+| 0051 | N-Queens | Hard |
 | 0058 | Length of Last Word | Easy |
 | 0067 | Add Binary | Easy |
 | 0075 | Sort Colors | Medium |
@@ -28,6 +32,7 @@ This repository contains solutions to various LeetCode problems, organized by pr
 | 0121 | Best Time to Buy and Sell Stock | Easy |
 | 0125 | Valid Palindrome | Easy |
 | 0136 | Single Number | Easy |
+| 0167 | Two Sum II - Input Array Is Sorted | Medium |
 | 0190 | Reverse Bits | Easy |
 | 0217 | Contains Duplicate | Easy |
 | 0219 | Contains Duplicate II | Easy |
@@ -94,11 +99,16 @@ This repository contains solutions to various LeetCode problems, organized by pr
 LeetcodeSolutions/
 ├── README.md
 ├── 0001-1000/
+│   ├── 0009_palindrome_number.java
+│   ├── 0029_divide_two_integers.java
 │   ├── 0036_valid_sudoku.java
 │   ├── 0037_sudoku_solver.java
+│   ├── 0042_trapping_rain_water.java
+│   ├── 0051_n_queens.java
 │   ├── 0067_add_binary.java
 │   ├── 0110_balanced_binary_tree.java
-│   └── ... (34 solution files)
+│   ├── 0167_two_sum_ii.java
+│   └── ... (39 solution files)
 ├── 1001-2000/
 │   ├── 1200_minimum_absolute_difference.java
 │   ├── 1304_find_n_unique_integers_sum_up_to_zero.java
@@ -113,8 +123,8 @@ LeetcodeSolutions/
 
 ## Statistics
 
-- Total Problems: 64
-- Total Solutions Available: 34
+- Total Problems: 69
+- Total Solutions Available: 39
 - Missing Solutions: 30
 - Language: Java
 - Difficulty Distribution
