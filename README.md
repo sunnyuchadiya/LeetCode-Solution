@@ -30,6 +30,7 @@ This repository contains solutions to various LeetCode problems, organized by pr
 | 0761 | Special Binary String | Medium |
 | 0762 | Prime Number of Set Bits in Binary Representation | Easy |
 | 0799 | Champagne Tower | Medium |
+| 0868 | Binary Gap | Easy |
 
 ### 1001-2000 Range
 | # | Problem | Difficulty |
