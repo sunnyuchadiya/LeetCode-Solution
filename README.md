@@ -40,6 +40,7 @@ This repository contains solutions to various LeetCode problems, organized by pr
 | 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy |
 | 1382 | Balance a Binary Search Tree | Medium |
 | 1653 | Minimum Deletions to Make String Balanced | Medium |
+| 1679 | Max Number of K-Sum Pairs | Medium |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy |
 
