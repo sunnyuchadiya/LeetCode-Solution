@@ -26,6 +26,7 @@ This repository contains solutions to LeetCode problems organized by problem num
 | 0167 | Two Sum II - Input Array Is Sorted | Medium |
 | 0190 | Reverse Bits | Easy |
 | 0206 | Reverse Linked List | Easy |
+| 0283 | Move Zeroes | Easy |
 | 0401 | Binary Watch | Easy |
 | 0693 | Binary Number with Alternating Bits | Easy |
 | 0696 | Count Binary Substrings | Easy |
@@ -33,13 +34,18 @@ This repository contains solutions to LeetCode problems organized by problem num
 | 0762 | Prime Number of Set Bits in Binary Representation | Easy |
 | 0799 | Champagne Tower | Medium |
 | 0868 | Binary Gap | Easy |
+| 0904 | Fruit Into Baskets | Medium |
 ### 1001-2000 Range
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1004 | Max Consecutive Ones III | Medium |
+| 1022 | Sum of Root To Leaf Binary Numbers | Easy |
+| 1044 | Longest Duplicate Substring | Hard |
 | 1200 | Minimum Absolute Difference | Easy |
 | 1304 | Find N Unique Integers Sum up to Zero | Easy |
 | 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy |
+| 1356 | Sort Integers by The Number of 1 Bits | Easy |
+| 1358 | Number of Substrings Containing All Three Characters | Medium |
 | 1382 | Balance a Binary Search Tree | Medium |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium |
 | 1653 | Minimum Deletions to Make String Balanced | Medium |
