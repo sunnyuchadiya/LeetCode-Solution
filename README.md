@@ -28,9 +28,12 @@ This repository contains solutions to LeetCode problems organized by problem num
 | 0206 | Reverse Linked List | Easy |
 | 0283 | Move Zeroes | Easy |
 | 0401 | Binary Watch | Easy |
+| 0424 | Longest Repeating Character Replacement | Medium |
 | 0693 | Binary Number with Alternating Bits | Easy |
 | 0696 | Count Binary Substrings | Easy |
+| 0713 | Subarray Product Less Than K | Medium |
 | 0744 | Find Smallest Letter Greater Than Target | Easy |
+| 0761 | Special Binary String | Hard |
 | 0762 | Prime Number of Set Bits in Binary Representation | Easy |
 | 0799 | Champagne Tower | Medium |
 | 0868 | Binary Gap | Easy |
@@ -47,6 +50,7 @@ This repository contains solutions to LeetCode problems organized by problem num
 | 1356 | Sort Integers by The Number of 1 Bits | Easy |
 | 1358 | Number of Substrings Containing All Three Characters | Medium |
 | 1382 | Balance a Binary Search Tree | Medium |
+| 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium |
 | 1653 | Minimum Deletions to Make String Balanced | Medium |
 | 1679 | Max Number of K-Sum Pairs | Medium |
