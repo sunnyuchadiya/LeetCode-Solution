@@ -109,3 +109,15 @@ A comprehensive collection of LeetCode problem solutions implemented in Java.
 | 3719 | longest balanced subarray 1 |
 | 3721 | longest balanced subarray 2 |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/sunnyuchadiya/LeetCode-Solution/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/sunnyuchadiya/LeetCode-Solution/tree/master/0031-next-permutation) |
+<!---LeetCode Topics End-->
