@@ -9,7 +9,7 @@ A comprehensive collection of LeetCode problem solutions implemented in Java.
 - **2001-3000**: 4 problems solved
 - **3001-4000**: 14 problems solved
 
-**Total**: 82 problems solved
+**Total**: 100 problems solved
 
 ### 0001-1000 Range (41 Solutions)
 | Problem # | Problem Name |
